@@ -19,7 +19,7 @@ description = "Diman Alfon's personal website"
 keywords = "blog,developer,personal"
 info = ["Cadet", "Programmer"]
 
-avatarURL = "img/avatar.svg"
+avatarURL = "img/difon.svg"
 
 #gravatar = "john.doe@example.com"
 dateFormat = "August 20, 2004"
